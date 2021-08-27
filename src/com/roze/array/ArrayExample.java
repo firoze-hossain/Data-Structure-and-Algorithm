@@ -21,7 +21,7 @@ public class ArrayExample {
             }
         }
         System.out.println("index: "+index);
-        System.out.println("hello Firoze");
+
 
 
     }
