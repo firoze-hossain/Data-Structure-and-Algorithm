@@ -1,4 +1,4 @@
-package com.roze;
+package com.roze.array;
 
 public class ArrayExample {
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class ArrayExample {
         }
         System.out.println("index: "+index);
         System.out.println("hello Firoze");
-
+        System.out.println("heelo hah");
 
     }
 }
