@@ -1,4 +1,5 @@
 package com.roze.bubblesort;
+//bubble sort algorithm implementation with scanner classs
 
 import java.util.Scanner;
 
