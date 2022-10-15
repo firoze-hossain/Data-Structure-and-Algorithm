@@ -3,8 +3,6 @@
 
 <!-- Yay, no errors, warnings, or alerts! -->
 
-**Data Structures and Algorithms**
-
 
 <table>
   <tr>
