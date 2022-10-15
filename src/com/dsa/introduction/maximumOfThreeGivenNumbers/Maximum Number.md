@@ -8,5 +8,5 @@
 **⇒Find the maximum of three of three Given number**
 
 
-![alt_text](images/image1.png "Maximum Number")
+![alt_text](https://github.com/firoze-hossain/Data-Structure-and-Algorithm/blob/master/Image/maximum%20of%20three%20given%20numbers.png "Maximum Number")
 
