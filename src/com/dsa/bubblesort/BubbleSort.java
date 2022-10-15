@@ -1,4 +1,4 @@
-package com.roze.bubblesort;
+package com.dsa.bubblesort;
 
 public class BubbleSort {
     public static void main(String[] args) {

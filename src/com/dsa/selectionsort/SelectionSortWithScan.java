@@ -1,4 +1,4 @@
-package com.roze.selectionsort;
+package com.dsa.selectionsort;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.roze.selectionsort;
+package com.dsa.selectionsort;
 
 public class SelectionSort {
     public static void main(String[] args) {

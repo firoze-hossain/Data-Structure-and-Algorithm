@@ -1,4 +1,4 @@
-package com.roze.array;
+package com.dsa.array;
 
 public class ArrayExample {
     public static void main(String[] args) {
