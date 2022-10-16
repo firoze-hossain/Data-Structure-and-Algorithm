@@ -1,7 +1,8 @@
-# Data-Structure-and-Algorithm
 <!-- Output copied to clipboard! -->
 
 <!-- Yay, no errors, warnings, or alerts! -->
+
+**Data Structures and Algorithms**
 
 
 <table>
@@ -30,9 +31,9 @@
    </td>
    <td>Prime Number or Not (<a href="https://github.com/firoze-hossain/Data-Structure-and-Algorithm/blob/master/src/com/dsa/introduction/primeOrNot/">Git</a>)
    </td>
-   <td>
+   <td>Prime numbers till n(<a href="https://github.com/firoze-hossain/Data-Structure-and-Algorithm/tree/master/src/com/dsa/introduction/primeNumTillN">Git</a>)
    </td>
-   <td>2022-10-
+   <td>2022-10-16
    </td>
    <td>Done
    </td>
