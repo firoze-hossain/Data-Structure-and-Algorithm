@@ -1,4 +1,4 @@
-package com.dsa.bigOfONotation;
+package com.dsa.bigOfONotation.OOfOne;
 
 import java.util.Scanner;
 
