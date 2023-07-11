@@ -1,5 +1,8 @@
 package com.dsa.udemy.sort.insertionSort;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class InsertionSort {
     public static void main(String[] args) {
         int arr[] = {12, -22, 71, -77, 2, 36};
@@ -12,6 +15,7 @@ public class InsertionSort {
             }
             arr[i] = newElement;
         }
+Map<String,Integer> map=new HashMap<String, Integer>();
 
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
