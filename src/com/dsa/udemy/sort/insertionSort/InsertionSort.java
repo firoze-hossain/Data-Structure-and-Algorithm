@@ -15,7 +15,6 @@ public class InsertionSort {
             }
             arr[i] = newElement;
         }
-Map<String,Integer> map=new HashMap<String, Integer>();
 
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
