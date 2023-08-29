@@ -1,4 +1,4 @@
-package com.dsa.udemy.lists;
+package com.dsa.udemy.lists.vector;
 
 import java.util.Objects;
 

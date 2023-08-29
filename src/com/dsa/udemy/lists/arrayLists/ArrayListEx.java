@@ -1,4 +1,4 @@
-package com.dsa.udemy.lists;
+package com.dsa.udemy.lists.arrayLists;
 
 import java.util.ArrayList;
 import java.util.List;
