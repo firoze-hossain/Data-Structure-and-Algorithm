@@ -1,4 +1,4 @@
-package com.dsa.udemy.queues;
+package com.dsa.udemy.queues.queueUsingArray;
 
 import java.util.Objects;
 
