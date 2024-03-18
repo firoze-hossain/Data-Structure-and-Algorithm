@@ -12,7 +12,7 @@ iv) empty()- search the stack it is empty or not
 v) search(Object element) returns 1(index starts at 1 no index)-based position where object             on stack- not 0 index based
 
 
-#####4. Use of stack
+##### 4. Use of stack
 i)Undo?Redo feature in text editor, ms word
 ii) Back and forward history button in the browser
 iii) use in backtracking algorithm(maze, file directories)
