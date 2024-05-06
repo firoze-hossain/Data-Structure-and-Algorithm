@@ -9,15 +9,15 @@ iii)Pre-Order<br>
 i) **In-Order**: <br>
 When we want to navigate a tree using recursion for In-Order, we use Left->Root->Right
 [For Binary search tree, we use non-decreasing order(Left->Root->Right)]<br>
-
+![In Order](https://github.com/firoze-hossain/Data-Structure-and-Algorithm/blob/master/src/com/dsa/recap/tree/binaryTree/inOrder/in-order.png "In Order")
 
 ii) **Post-Order**:<br>
 When we want to navigate a tree using recursion for Post-Order, we use Left->Right->Root.
 [We used to delete in tree from root to leaf nodes]<br>
 
-
+![post order](https://github.com/firoze-hossain/Data-Structure-and-Algorithm/blob/master/src/com/dsa/recap/tree/binaryTree/postOrder/post-order.png "post order")
 
 iii) **Pre-Order**:<br>
 When we want to navigate a tree using recursion for Post-Order, we use Root->Left->Right.
 For pre-order we copy a tree, first we (create root node, then branch node and lastly leaf node)<br>
-
+![pre order](https://github.com/firoze-hossain/Data-Structure-and-Algorithm/blob/master/src/com/dsa/recap/tree/binaryTree/preOrder/pre-order.png "pre order")
